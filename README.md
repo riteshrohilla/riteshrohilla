@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @riteshrohilla
 - 👀 I’m interested in Frontend Develpment
 - 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on 
 - 📫 You can reach me @riteshrohilla4gmail.com
 
 <!---
