@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @riteshrohilla
-- 👀 I’m interested in Frontend Develpment
-- 🌱 I’m currently learning Reactjs
-- 📫 You can reach me @riteshrohilla4gmail.com
+Hi, I’m @riteshrohilla
+You can reach me @riteshrohilla4gmail.com
 
 <!---
 riteshrohilla/riteshrohilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
